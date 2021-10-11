@@ -1,0 +1,11 @@
+﻿.topbar {
+    background: linear-gradient(180deg, #A1C900 0%, #95AA00 50%, #789600 100%) !important;
+}
+
+.select-label select {
+    border: #a3c0e8 !important;
+}
+
+.swagger-ui img {
+    max-width: 0 !important;
+}

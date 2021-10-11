@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Eshop.Product.Core</name>
+    </assembly>
+    <members>
+        <member name="P:Eshop.Product.Core.Dto.ProductDto.Name">
+            <summary>
+            Name of the product
+            </summary>
+        </member>
+        <member name="P:Eshop.Product.Core.Dto.ProductDto.ImgUri">
+            <summary>
+            Image URI of the product
+            </summary>
+        </member>
+        <member name="P:Eshop.Product.Core.Dto.ProductDto.Price">
+            <summary>
+            Price of the product
+            </summary>
+        </member>
+        <member name="P:Eshop.Product.Core.Dto.ProductDto.Description">
+            <summary>
+            Descripiton of the product
+            </summary>
+        </member>
+    </members>
+</doc>
